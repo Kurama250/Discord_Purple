@@ -10,7 +10,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/npm/v/module-name">
-  <img src="https://img.shields.io/npm/v/fs?label=fs">
   <img src="https://img.shields.io/npm/v/electron?label=electron">
   <img src="https://img.shields.io/npm/v/electron-builder?label=electron-builder">
 </p>
